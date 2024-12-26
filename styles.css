@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(231, 229, 229);
     font-family:"Trebuchet MS", sans-serif;
     color: rgb(22, 22, 22);
 }
@@ -26,4 +26,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.info {
+    background-color: white;
 }
